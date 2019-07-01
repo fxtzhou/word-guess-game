@@ -1,3 +1,44 @@
+
+
+.main{
+    padding: 15px;
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    height: 600px;
+    background-color: white;
+    text-align: center;
+}
+
+#play-again{
+    background: red;
+}
+
+#game-over{
+    font-weight: bolder;
+}
+
+
 h1{
-    font-family: Impact;
+    font-family: 'DM Serif Display', serif;
+    font-size: 36px;
+}
+
+h2{
+    font-family: 'DM Serif Display', serif;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+h3{
+    font-family: 'DM Serif Text', serif;
+    font-size: 18px;
+}
+
+#guesses-left{
+    font-weight: bold;
+}
+
+#current-word{
+    letter-spacing: 3px;
 }
