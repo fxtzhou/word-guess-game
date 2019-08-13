@@ -1,2 +1,3 @@
 # word-guess-game
-Homework 3 - Hangman
+
+https://fxtzhou.github.io/word-guess-game
